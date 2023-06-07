@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.pic{
+    position: relative;
+    top: 10px;
+    left:10px;
+    height: 450px;
+    width: 380px;
+}
