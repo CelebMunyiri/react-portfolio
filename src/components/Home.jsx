@@ -5,10 +5,10 @@ import './Home.css'
 
 function Home() {
   return (
-    <React.Fragment>
+    <>
         
       <MyImage />
-    </React.Fragment>
+    </>
   )
 }
 
